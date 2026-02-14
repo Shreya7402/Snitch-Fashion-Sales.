@@ -15,6 +15,17 @@ Minimum Profit: ₹-992.61 (loss-making transaction)
 
 These KPIs give a quick snapshot of overall business performance and profit variability.
 
+## Tech Stack
+
+- The dashboard was built using the following tools and technologies:
+
+- Power BI Desktop – Main data visualization platform used to design and develop the report.
+
+- Power Query – Used for data cleaning, transformation, and preprocessing (ETL).
+
+- DAX (Data Analysis Expressions) – Used to create calculated measures, calculated columns, KPIs, and dynamic logic.
+
+- Data Modeling – Established relationships between tables to enable filtering, aggregation, and cross-analysis.
 
 ## Dataset Used
 - <a href="https://github.com/Shreya7402/Snitch-Fashion dashboard/blob/main/Snitch-Fashion-Sales-Uncleaned.csv">Dataset</a>
