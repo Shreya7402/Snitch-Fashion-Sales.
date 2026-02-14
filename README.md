@@ -20,5 +20,5 @@ These KPIs give a quick snapshot of overall business performance and profit vari
 - <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Snitch-Fashion-Sales-Uncleaned.csv">Dataset</a>
 
 ## Dashboard 
-- <a href="https://github.com/Shreya7402/Snitch-Fashion-Dashboard/blob/main/Screenshot%20(188).png">Business Performance Dashboard</a>
+- <a href="https://github.com/Shreya7402/Snitch-Fashion-Dashboard/blob/main/Screenshot%20(204).png">Business Performance Dashboard</a>
 
