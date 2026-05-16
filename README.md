@@ -23,6 +23,8 @@ These KPIs give a quick snapshot of overall business performance and profit vari
 
 - Power Query – Used for data cleaning, transformation, and preprocessing (ETL).
 
+- Python libraries - For data cleaning and transformation.
+
 - DAX (Data Analysis Expressions) – Used to create calculated measures, calculated columns, KPIs, and dynamic logic.
 
 - Data Modeling – Established relationships between tables to enable filtering, aggregation, and cross-analysis.
