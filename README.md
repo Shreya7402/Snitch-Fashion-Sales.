@@ -29,7 +29,7 @@ These KPIs give a quick snapshot of overall business performance and profit vari
 - Data Modeling – Established relationships between tables to enable filtering, aggregation, and cross-analysis.
 
 # Dashboard
-- <a href="https://github.com/Shreya7402/Snitch-Fashion-Sales./blob/main/Screenshot%20(243).png" Overview of Dashboard </a>
+- <a href="https://github.com/Shreya7402/Snitch-Fashion-Sales./blob/main/Screenshot%20(243).png"> Overview of Dashboard </a>
 
 # Dataset Used
 - <a href="https://github.com/Shreya7402/Snitch-Fashion-Sales./blob/main/Snitch_Fashion_Sales_Uncleaned.csv">Dataset</a>
